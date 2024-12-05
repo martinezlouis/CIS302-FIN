@@ -58,7 +58,7 @@ h1 {
 
 .info-container {
     text-align: left;
-  
+    padding: 70px;
     padding: 10px;
     margin-left: 20px;
     flex-grow: 1;
